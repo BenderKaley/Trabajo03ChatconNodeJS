@@ -1,9 +1,9 @@
 {
-    "name": "chatnodejs",
+    "name": "Trabajo03ChatconNodeJS",
     "version": "0.1.0",
     "description": "Chat para PrograInternet",
     "main": "app.js",
-    "author": "Luis Jimenez Mendoza",
+    "author": "Yarhym Alexandro Uribe Torres",
     "dependencies": {
         "express": "~3.2.4",
         "socket.io": "~0.9.12"
